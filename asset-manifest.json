@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ExtendedProgram/static/css/main.d97bd60f.css",
-    "main.js": "/ExtendedProgram/static/js/main.a11b8217.js",
+    "main.js": "/ExtendedProgram/static/js/main.dfd803bf.js",
     "static/media/Moradin_showcase_0_r.jpg": "/ExtendedProgram/static/media/Moradin_showcase_0_r.1f81745d8ce7c46adc5c.jpg",
     "static/media/Braemar_showcase_1_r.jpg": "/ExtendedProgram/static/media/Braemar_showcase_1_r.9a7a9d6f270880f7809b.jpg",
     "static/media/Braemar_showcase_2_r.jpg": "/ExtendedProgram/static/media/Braemar_showcase_2_r.854556f52bd27b5bea74.jpg",
@@ -97,11 +97,11 @@
     "static/media/Chaplin_showcase_1_s_a.jpg": "/ExtendedProgram/static/media/Chaplin_showcase_1_s_a.cbc1a1d3ffda388564ef.jpg",
     "static/media/SPICIOUS_cover.jpg": "/ExtendedProgram/static/media/SPICIOUS_cover.f23eb2a3cc185219171c.jpg",
     "static/media/Chaplin_showcase_0_s_a.jpg": "/ExtendedProgram/static/media/Chaplin_showcase_0_s_a.d9773b5e76e6f7dcbca3.jpg",
-    "static/media/Nutshell_cover.jpg": "/ExtendedProgram/static/media/Nutshell_cover.d212c0da6595008d40d9.jpg",
     "static/media/Academic_showcase_3_s_a.jpg": "/ExtendedProgram/static/media/Academic_showcase_3_s_a.8c09ae84dedb5ae44515.jpg",
     "static/media/Bhreagh_cover.jpg": "/ExtendedProgram/static/media/Bhreagh_cover.3f261ba2565b65f05aaf.jpg",
     "static/media/Moradin_showcase_1_s_b.jpg": "/ExtendedProgram/static/media/Moradin_showcase_1_s_b.3d5593915a408399b4a4.jpg",
     "static/media/GUMMI_showcase_1_s_b.jpg": "/ExtendedProgram/static/media/GUMMI_showcase_1_s_b.0061806bbafe6d595a3b.jpg",
+    "static/media/Nutshell_cover.jpg": "/ExtendedProgram/static/media/Nutshell_cover.add491b6e27ff26b25df.jpg",
     "static/media/Rugerin_cover.jpg": "/ExtendedProgram/static/media/Rugerin_cover.3defe71c08f8464cfd16.jpg",
     "static/media/Moradin_cover.jpg": "/ExtendedProgram/static/media/Moradin_cover.97b7175774146d37b015.jpg",
     "static/media/Oxford_cover.jpg": "/ExtendedProgram/static/media/Oxford_cover.9a96f5e65760c8992caf.jpg",
@@ -150,7 +150,7 @@
     "static/media/Floe_letter_default.svg": "/ExtendedProgram/static/media/Floe_letter_default.6f45b1f1ad7696cf7c40c10308c01bf7.svg",
     "static/media/Bhreagh_letter_active.svg": "/ExtendedProgram/static/media/Bhreagh_letter_active.e4327c1134cd9ba4781055d1863b94d9.svg",
     "static/media/Bhreagh_letter_default.svg": "/ExtendedProgram/static/media/Bhreagh_letter_default.d481bb3b3c070805f7059667f13f8816.svg",
-    "static/media/Nutshell_letter_active.svg": "/ExtendedProgram/static/media/Nutshell_letter_active.73b4a75c823b3142df5d0e738eb57af5.svg",
+    "static/media/Nutshell_letter_active.svg": "/ExtendedProgram/static/media/Nutshell_letter_active.176d0a76697a35274752ec32fb131215.svg",
     "static/media/Nutshell_letter_default.svg": "/ExtendedProgram/static/media/Nutshell_letter_default.f3bf32faff60c8d22387b06129ee5d8c.svg",
     "static/media/LiGarden_letter_active.svg": "/ExtendedProgram/static/media/LiGarden_letter_active.7bc3d549273fdd2923a44d2c800096f8.svg",
     "static/media/LiGarden_letter_default.svg": "/ExtendedProgram/static/media/LiGarden_letter_default.e6eb4f99312547bbfbcc5921f1093cd1.svg",
@@ -170,10 +170,10 @@
     "static/media/Juju_letter_default.svg": "/ExtendedProgram/static/media/Juju_letter_default.50cf4980bd0b0f057a13ae8354380a4c.svg",
     "static/media/Juju_letter_active.svg": "/ExtendedProgram/static/media/Juju_letter_active.3294a55ef38e71aaad1344d7313a3661.svg",
     "main.d97bd60f.css.map": "/ExtendedProgram/static/css/main.d97bd60f.css.map",
-    "main.a11b8217.js.map": "/ExtendedProgram/static/js/main.a11b8217.js.map"
+    "main.dfd803bf.js.map": "/ExtendedProgram/static/js/main.dfd803bf.js.map"
   },
   "entrypoints": [
     "static/css/main.d97bd60f.css",
-    "static/js/main.a11b8217.js"
+    "static/js/main.dfd803bf.js"
   ]
 }
