@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ExtendedProgram/static/css/main.82c46780.css",
+    "main.css": "/ExtendedProgram/static/css/main.400d1b9c.css",
     "main.js": "/ExtendedProgram/static/js/main.c09991b6.js",
     "static/media/Moradin_showcase_0_r.jpg": "/ExtendedProgram/static/media/Moradin_showcase_0_r.1f81745d8ce7c46adc5c.jpg",
     "static/media/Braemar_showcase_1_r.jpg": "/ExtendedProgram/static/media/Braemar_showcase_1_r.9a7a9d6f270880f7809b.jpg",
@@ -169,11 +169,11 @@
     "static/media/Sacre_letter_active.svg": "/ExtendedProgram/static/media/Sacre_letter_active.f0501bbc77aede180a23abe4ad91ef7d.svg",
     "static/media/Juju_letter_default.svg": "/ExtendedProgram/static/media/Juju_letter_default.50cf4980bd0b0f057a13ae8354380a4c.svg",
     "static/media/Juju_letter_active.svg": "/ExtendedProgram/static/media/Juju_letter_active.3294a55ef38e71aaad1344d7313a3661.svg",
-    "main.82c46780.css.map": "/ExtendedProgram/static/css/main.82c46780.css.map",
+    "main.400d1b9c.css.map": "/ExtendedProgram/static/css/main.400d1b9c.css.map",
     "main.c09991b6.js.map": "/ExtendedProgram/static/js/main.c09991b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.82c46780.css",
+    "static/css/main.400d1b9c.css",
     "static/js/main.c09991b6.js"
   ]
 }
