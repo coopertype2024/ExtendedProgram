@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ExtendedProgram/static/css/main.d97bd60f.css",
-    "main.js": "/ExtendedProgram/static/js/main.c09991b6.js",
+    "main.js": "/ExtendedProgram/static/js/main.198edf22.js",
     "static/media/Moradin_showcase_0_r.jpg": "/ExtendedProgram/static/media/Moradin_showcase_0_r.1f81745d8ce7c46adc5c.jpg",
     "static/media/Braemar_showcase_1_r.jpg": "/ExtendedProgram/static/media/Braemar_showcase_1_r.9a7a9d6f270880f7809b.jpg",
     "static/media/Braemar_showcase_2_r.jpg": "/ExtendedProgram/static/media/Braemar_showcase_2_r.854556f52bd27b5bea74.jpg",
@@ -170,10 +170,10 @@
     "static/media/Juju_letter_default.svg": "/ExtendedProgram/static/media/Juju_letter_default.50cf4980bd0b0f057a13ae8354380a4c.svg",
     "static/media/Juju_letter_active.svg": "/ExtendedProgram/static/media/Juju_letter_active.3294a55ef38e71aaad1344d7313a3661.svg",
     "main.d97bd60f.css.map": "/ExtendedProgram/static/css/main.d97bd60f.css.map",
-    "main.c09991b6.js.map": "/ExtendedProgram/static/js/main.c09991b6.js.map"
+    "main.198edf22.js.map": "/ExtendedProgram/static/js/main.198edf22.js.map"
   },
   "entrypoints": [
     "static/css/main.d97bd60f.css",
-    "static/js/main.c09991b6.js"
+    "static/js/main.198edf22.js"
   ]
 }
